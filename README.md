@@ -1,2 +1,2 @@
 # Sonovibe
-Un super site
+Adapter les $dbname $password $username à votre bdd
